@@ -13,6 +13,10 @@ module.exports = {
       colors: {
         "main-red": "#DD2242",
       },
+      container: {
+        center: true,
+        padding: "1rem",
+      },
     },
   },
   plugins: [],
