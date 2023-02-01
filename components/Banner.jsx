@@ -11,7 +11,7 @@ export default function Banner() {
                 <div className="w-[2px] h-[250px] bg-white before:content-[''] relative before:w-[3px] before:h-[100px] before:bg-red-500 before:absolute before:-left-[0.5px]" />
                 <div className=" font-bold -rotate-90">01</div>
               </div>
-              <div className="font-bold space-y-3 block">
+              <div className="font-bold space-y-3">
                 <div className="-rotate-90">Tw</div>
                 <div className="-rotate-90">In</div>
                 <div className="-rotate-90">Fb</div>
