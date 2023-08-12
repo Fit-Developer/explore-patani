@@ -15,7 +15,7 @@ const navigation = [
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   return (
-    <div className="isolate bg-transparent absolute w-full z-50">
+    <div className="isolate bg-transparent absolute inset-0">
       <div className="px-6 pt-6 lg:px-8">
         <nav className="flex items-center justify-between" aria-label="Global">
           <div className="flex lg:flex-[0.25]">
